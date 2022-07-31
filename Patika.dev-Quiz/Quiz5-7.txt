@@ -8,5 +8,5 @@
 her iki grubun kendi içerisinde ortalamalarını alan ve bu ortalamaları
 ve ortalama toplamlarını console'a yazdıran programı yazınız. (Array sınıfını kullanarak yazınız.)
 -----------------------------------------------------------------------------------------
-7: Klavyeden girilen cümle içerisindeki sesli harfleri bir dizi içerisinde saklayan
+7. Klavyeden girilen cümle içerisindeki sesli harfleri bir dizi içerisinde saklayan
 ve dizinin elemanlarını sıralayan programı yazınız.
