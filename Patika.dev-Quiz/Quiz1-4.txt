@@ -1,5 +1,5 @@
 
-<__Bold__>
+**Bold**
 1. Bir konsol uygulamasında kullanıcıdan pozitif bir sayı girmesini isteyin(n).
 Sonrasında kullanıcıdan n adet pozitif sayı girmesini isteyin.
 Kullanıcının girmiş olduğu sayılardan çift olanlar console'a yazdırın.
@@ -14,4 +14,4 @@ Kullanıcının girişini yaptığı kelimeleri sondan başa doğru console'a ya
 -----------------------------------------------------------------------------------------
 4. Bir konsol uygulamasında kullanıcıdan bir cümle yazması isteyin.
 Cümledeki toplam kelime ve harf sayısını console'a yazdırın.
-</__Bold__>
+
